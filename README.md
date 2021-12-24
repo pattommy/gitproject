@@ -1,7 +1,7 @@
 chris
 # gitproject
 ###
-This is Chris
+This is Chris. Chris is right here with other people,, ##
 ,,,
 
 gwladys
